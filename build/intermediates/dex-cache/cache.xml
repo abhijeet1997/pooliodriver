@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6bf3981f61439f523103631abd4b040bc4bd3537">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e7994d9da6f7a01a8908ffd7d4955d8b852879a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_34e9569d4b41f34372d4985f9599324baa0a8b91/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_b8ef85a39339fbeebf0bf91af3bfd5c29e56625e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b819492c41f141262ffbd203ed83ddc774056557">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d52746f246350f2517c7d8695ba0606ccb2911c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_0f7554b27ddc15920ff23737cbb221c7d43f43d9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.0.0_8284c3510c13b9329742a7d8c490b1ee090ea595/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_cc54ca3cdd927d9445bb6285374921e61900b045/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_040451d45d62fed4ffcb8d9b121e50c703e621e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_6836df51c63e1a1d2396dc290aad2606431f8140/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/PoolioDrivers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_c7391aad65b01345ac5fa64acd9f2029d3d27393/classes.dex" />
+    </item>
+
+</items>

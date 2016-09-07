@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:elevation="15dp"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardUseCompatPadding="true"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/firstrow">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/timestamp"
+            android:textSize="15dp"
+            android:text="Fri, 26 Aug, 7:41 pm"
+            android:typeface="serif"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="Ride ID: "
+            android:typeface="serif"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/ride_id"
+            android:layout_toStartOf="@+id/ride_id"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ride_id"
+            android:textSize="15dp"
+            android:text="1234"
+            android:typeface="serif"
+            android:layout_alignParentRight="true"/>
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/secondrow"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/firstrow">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/source"
+            android:text="From : "
+            android:textSize="13dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/destination"
+            android:text="To      : "
+            android:textSize="13dp"
+            android:layout_below="@+id/source"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="3dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/date"
+            android:layout_below="@+id/destination"
+            android:text="Date : "
+            android:textSize="13dp"
+            android:layout_marginTop="3dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/time"
+            android:layout_below="@+id/date"
+            android:text="Time : "
+            android:textSize="13dp"
+            android:layout_marginTop="3dp"/>
+    </RelativeLayout>
+
+        <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Complete"
+        android:id="@+id/button_complete"
+        android:layout_below="@+id/firstrow"
+        android:layout_alignParentRight="true"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:id="@+id/button_cancel"
+            android:layout_below="@+id/button_complete"
+            android:layout_alignLeft="@+id/button_complete"
+            android:layout_alignStart="@+id/button_complete"
+            android:layout_alignRight="@+id/button_complete"
+            android:layout_alignEnd="@+id/button_complete" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="status"
+            android:id="@+id/status_tv"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:visibility="gone"
+            />
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

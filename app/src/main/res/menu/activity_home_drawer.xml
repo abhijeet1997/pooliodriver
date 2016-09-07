@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ride"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="Rides"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_myrides"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="My Rides"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="My profile"
+            android:checked="false"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Share"
+                android:checked="false"/>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@android:drawable/ic_dialog_email"
+                android:title="Contact us"
+                android:checked="false"/>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="About us"
+                android:checked="false"/>
+        </menu>
+    </item>
+
+</menu>
